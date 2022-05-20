@@ -13,7 +13,7 @@ Dato: la URL que usarás para clonar el repositorio se encuentra en la página p
 # Firebase
 ## Collection
 ### Campos
-* Products
+#### Products
  * brand
  * description
  * grinding
@@ -25,7 +25,14 @@ Dato: la URL que usarás para clonar el repositorio se encuentra en la página p
  * stock
  * variety
  * weight
-* Orders
+#### Promo
+ * description
+ * image
+ * name
+ * price
+ * stock
+
+#### Orders
  * BuyerAdress (direccion del comprador)
  * BuyerEmail (email del comprador)
  * BuyerName (nombre del comprador
