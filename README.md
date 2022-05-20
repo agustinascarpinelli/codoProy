@@ -87,5 +87,4 @@ Dato: la URL que usarás para clonar el repositorio se encuentra en la página p
 
 
 # Visualización de la página en el navegador
-******GIF*********
 
