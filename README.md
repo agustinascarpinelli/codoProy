@@ -3,7 +3,7 @@
 # Instalación
 Para clonar el proyecto en su dispositivo, se deben ejecutar las siguientes líneas en la terminal:
 
-git clone ***********LINK REPO****************
+git clone https://github.com/agustinascarpinelli/react-coder.git
 
 npm install
 
